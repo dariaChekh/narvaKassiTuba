@@ -91,18 +91,7 @@ p{
 	margin-right: 20%;
 	font-size: 16pt;
 }
-#catPhoto{
-	width: 500px;
-	height: 350px;
-	border-radius: 30px;
-	margin-left: 6%;
-}
-#dogPhoto{
-	width: 500px;
-	height: 350px;
-	border-radius: 30px;
-}
-#donationsPhoto{
+.mainPhoto{
 	width: 500px;
 	height: 350px;
 	border-radius: 30px;
