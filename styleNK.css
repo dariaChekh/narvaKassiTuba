@@ -91,7 +91,18 @@ p{
 	margin-right: 20%;
 	font-size: 16pt;
 }
-.photoMP{
+#catPhoto{
+	width: 500px;
+	height: 350px;
+	border-radius: 30px;
+	margin-left: 6%;
+}
+#dogPhoto{
+	width: 500px;
+	height: 350px;
+	border-radius: 30px;
+}
+#donationsPhoto{
 	width: 500px;
 	height: 350px;
 	border-radius: 30px;
